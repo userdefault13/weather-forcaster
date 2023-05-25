@@ -1,0 +1,55 @@
+# Project Name
+
+## Table of Contents
+
+- [Project Name](#project-name)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Key Features](#key-features)
+  - [Installation and Usage](#installation-and-usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+
+## Description
+
+The project aims to provide a 5-day weather forecast for a specific city. It leverages the OpenWeatherMap API to retrieve current weather data and forecast information. Users can search for a city, and the application displays the current weather conditions along with a 5-day forecast.
+
+The project utilizes HTML, CSS, and JavaScript, along with the Bootstrap 4 framework for responsive design. It incorporates AJAX requests to fetch data from the OpenWeatherMap API and dynamically updates the user interface to display the retrieved weather information.
+
+The application also includes a search history feature, allowing users to view their recent searches. The search history is stored in the browser's local storage, providing a convenient way to access previously searched cities.
+
+## Key Features
+
+- Search for a city to get the current weather conditions
+- Display the temperature, description, and other relevant weather information
+- Show a 5-day forecast with temperature and description for each day
+- Store and display a search history of recent searches
+- Responsive design with Bootstrap 4 for optimal viewing on different devices
+
+## Installation and Usage
+
+1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
+2. Navigate to the project directory: `cd project-name`
+3. Open the `index.html` file in a web browser.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m "Description of your changes"`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request.
+
+Please make sure to adhere to the code conventions and follow the existing coding style.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
+
+## Contact
+
+For any inquiries or feedback, please contact [Your Name](mailto:your-email@example.com).
+
